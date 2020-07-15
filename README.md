@@ -1,4 +1,4 @@
 # CalculatorApp
 
 Path to app folder and run:
-- npm install then npm start
+- npm install, then npm start
